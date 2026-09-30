@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Client/OnlineStore.Client.csproj" />
+  <Project Path="Server/OnlineStore.Server.csproj" />
+  <Project Path="Server.SemaphoreSlim/OnlineStore.Server.SemaphoreSlim.csproj" />
+  <Project Path="Shared/OnlineStore.Shared.csproj" />
+  <Project Path="Tests/OnlineStore.Tests.csproj" />
+</Solution>
